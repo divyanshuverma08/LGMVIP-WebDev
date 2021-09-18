@@ -71,7 +71,7 @@ body {
   border-bottom: 10px solid transparent;
   opacity: .5;
   transition: opacity .6s ease;
-  border-radius: 100%; // /* add border-radius */
+  border-radius: 100%;
 }
 
 .overlay {
@@ -403,8 +403,6 @@ body {
   padding: 70px 25%;
   background-color: #efefef;
 }
-
-#life h1 {}
 
 .photo-carousel {
   margin-top: 40px;
