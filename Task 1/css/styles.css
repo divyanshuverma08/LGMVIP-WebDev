@@ -172,10 +172,12 @@ body {
 
 .info button {
   background-color: #ffe073;
+   color: #000;
 }
 
 .info button:hover {
   background-color: #61497b;
+  color: white;
 }
 
 /* CARD */
